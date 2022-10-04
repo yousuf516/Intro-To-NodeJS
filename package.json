@@ -1,0 +1,22 @@
+{
+  "name": "intro-to-nodejs",
+  "version": "1.0.0",
+  "description": "This is a intro to node project.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousuf516/Intro-To-NodeJS.git"
+  },
+  "author": "Yousuf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yousuf516/Intro-To-NodeJS/issues"
+  },
+  "homepage": "https://github.com/yousuf516/Intro-To-NodeJS#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
